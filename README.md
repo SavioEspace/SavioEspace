@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,intellij,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA"/>
 </p>
-
 
 ---
 
