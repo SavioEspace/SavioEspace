@@ -1,37 +1,48 @@
-<h1 align="center">👨‍🚀 SavioEspace</h1>
+<!-- FUTURISTIC README BY CHATGPT | BASED ON SÁVIO'S ORIGINAL -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F0F0F&height=180&section=header&text=Sávio%20S.&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+
+</div>
+
+---
+
 <p align="center">
-  <em>Code is my craft. Architecture is my orbit.</em>
+  <em><strong>“Code is my craft. Architecture is my orbit.”</strong></em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Architecture-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enterprise_Architecture-%23007ACC?style=flat&logo=archlinux&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Architecture-%2300F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-%23007ACC?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA" />
 </p>
 
 ---
 
-### 👋 Sobre mim
+## 👋 Sobre mim
 
 💻 Sou um apaixonado por **tecnologia, arquitetura de software e soluções corporativas**.  
 🧠 Atualmente em desenvolvimento contínuo como **System Analyst** na **Petrobras Transporte S.A.**  
-🚀 Gosto de enxergar o todo — compreender processos, sistemas e a integração entre eles para transformar complexidade em valor real para a empresa.
+🚀 Gosto de enxergar o todo — **entender processos, sistemas e a sinergia entre eles para transformar complexidade em valor estratégico** para a empresa.
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ```yaml
 Linguagens:      Java · SQL · HTML · JavaScript
 Frameworks:      Spring Boot · Spring Data JPA
 Banco de Dados:  PostgreSQL · H2
 Ferramentas:     IntelliJ · Git · Swagger · Postman
-
+```
+<div align="center">
+   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
