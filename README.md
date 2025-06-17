@@ -1,8 +1,10 @@
-<!-- FUTURISTIC README BY CHATGPT | BASED ON SÁVIO'S ORIGINAL -->
-
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F0F0F&height=180&section=header&text=Sávio%20S.&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+  
+<h1 align="center">👨‍🚀 SavioEspace</h1>
+  <!-- Nome com efeito Sci-Fi Neon -->
+  <h1 style="font-family: 'Fira Code', monospace; color: #00F7FF; font-size: 3rem; text-shadow: 0 0 10px #00F7FF;">
+    ░█▀█░█▀▄░█░█░█▀█░█ ░ █░█░█▀█░█░█░█▀▀░█▀█  
+  </h1>
 
 </div>
 
