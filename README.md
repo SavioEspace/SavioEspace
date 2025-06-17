@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Software_Architecture-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-%23007ACC?style=flat&logo=archlinux&logoColor=white" />
+
 </p>
 
 <p align="center">
