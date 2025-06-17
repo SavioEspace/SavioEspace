@@ -16,7 +16,7 @@
 
 💻 Sou um apaixonado por **tecnologia, arquitetura de software e soluções corporativas**.  
 🧠 Atualmente em desenvolvimento contínuo como **System Analyst** na **Transpetro – Petrobras Transporte S.A.**  
-🚀 Gosto de transformar ideias complexas em sistemas simples, escaláveis e eficientes.
+🚀 Gosto de transformar ideias complexas em sistemas, escaláveis e eficientes.
 
 ---
 
