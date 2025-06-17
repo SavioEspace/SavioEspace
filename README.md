@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/Software_Architecture-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,intellij,linux" />
+</p>
+
+
 ---
 
 ### 👋 Sobre mim
